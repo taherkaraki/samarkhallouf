@@ -1,15 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//macOS 12.2.1//EN
-N:Karaki;Taher;;;
-FN:Taher Karaki
+N:Hamdy;Sherif;;;
+FN:Sherif Hamdy
 ORG:Tenable;
-TITLE:Specialist Security Engineer | MENA+Turkey
-EMAIL;type=INTERNET;type=WORK;type=pref:tkaraki@tenable.com
-EMAIL;type=INTERNET;type=HOME:iTaher@me.com
-TEL;type=CELL;type=VOICE;type=pref:+971 50 876 5971
-X-SOCIALPROFILE;type=twitter:http://twitter.com/iTaher
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/http%3A//linkedin.com/in/taher-karaki-074956103
-item1.URL;type=pref:http://www.tenable.com
-item1.X-ABLabel:_$!<HomePage>!$_
+TITLE:Territory Manager - MENA & Turkey
+TEL;type=HOME;waid=971557204338:+971 55 720 4338
+EMAIL;type=INTERNET:shamdy@tenable.com
 END:VCARD
