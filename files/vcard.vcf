@@ -1,9 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Hamdy;Sherif;;;
-FN:Sherif Hamdy
-ORG:Tenable;
-TITLE:Territory Manager - MENA & Turkey
-TEL;type=HOME;waid=971557204338:+971 55 720 4338
-EMAIL;type=INTERNET:shamdy@tenable.com
+PRODID:-//Apple Inc.//macOS 12.2.1//EN
+N:Khallouf;Samar;;;
+FN:Samar Khallouf
+ORG:Tenable Security;
+TITLE:Commercial Territory Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:skhallouf@tenable.com
+TEL;type=pref:+971559941220
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/samar-khallouf-77b41136
 END:VCARD
